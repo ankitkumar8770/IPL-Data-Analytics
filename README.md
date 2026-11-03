@@ -139,3 +139,23 @@ BCA Student | Aspiring Data Analyst
 This IPL Data Analytics project demonstrates the use of Python and Pandas to explore cricket match data, analyze team performance, and discover trends through Exploratory Data Analysis.
 
 
+
+## 📊 Data Visualizations
+
+### 1. Top 10 IPL Teams by Wins
+![Top 10 Teams](images/charts/top_10_teams.png)
+
+### 2. IPL Matches Played in Each Season
+![Matches Each Season](images/charts/IPL_Matches_Each_season.png)
+
+### 3. Season-wise Wins: Top 5 IPL Teams
+![Season-wise Top 5 Teams](images/charts/season_wise_top5_teams.png)
+
+### 4. Season-wise Toss Decisions
+![Toss Decisions](images/charts/season_wise_toss_decisions.png)
+
+### 5. Matches Played vs Matches Won
+![Matches Played vs Won](images/charts/match_played_Vs_match_won.png)
+
+### 6. Season and Team-wise Wins
+![Season Team Wins](images/charts/season_team_wins_top5.png)
